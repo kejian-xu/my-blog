@@ -1,3 +1,5 @@
-body{font-size:14px;font-family:SourceHanSerifSC-Medium,Microsoft YaHei,arial}
-header{box-shadow: 0 0 8px rgba(100,100,100,.5)}
+body{font-size:14px;font-family:SourceHanSerifSC-Medium,Microsoft YaHei,arial;}
+a:hover{text-decoration: none;}
+header{box-shadow: 0 3px 6px rgba(150,150,150,.5);position: fixed;z-index: 1600;width:100%; background-color:#fff;}
+.frame{height:6000px;padding-top:60px;padding-bottom: 60px;}
 
